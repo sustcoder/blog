@@ -1,2 +1,2 @@
 # blog
-code life and hope
+[code life and hope](sustcoder.github.io)
