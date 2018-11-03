@@ -1,2 +1,6 @@
-# blog
-[code life and hope](sustcoder.github.io)
+
+
+[github blog ](https://github.com/sustcoder/blog/issues)
+
+
+[sustcoder.github.io](https://sustcoder.github.io/)
